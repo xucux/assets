@@ -22,5 +22,7 @@ https://cdn.jsdelivr.net/gh/xucux/assets@latest/blog/svg/u1f3f7.svg
 https://cdn.jsdelivr.net/gh/xucux/assets@latest/blog/svg/u1f4d1.svg
 https://cdn.jsdelivr.net/gh/xucux/assets@latest/blog/svg/u1f5c2.svg
 
+https://gcore.jsdelivr.net/gh/xucux/assets@latest/font/zh/lxgw-wenkai-v1.250.css
+
 ```
 
