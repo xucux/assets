@@ -1,0 +1,51 @@
+
+
+@font-face {
+    font-family: 'LXGW WenKai';
+    font-style: normal;
+    font-weight: 400;
+    src: local("LXGW WenKai Regular"),local("LXGWWenKai-Regular"),url(./lxgw-wenkai-v1.250/LXGWWenKai-Regular.ttf);
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'LXGW WenKai';
+    font-style: normal;
+    font-weight: 400;
+    src: local("LXGW WenKai Bold"),local("LXGWWenKai-Bold"),url(./lxgw-wenkai-v1.250/LXGWWenKai-Bold.ttf);
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'LXGW WenKai';
+    font-style: normal;
+    font-weight: 400;
+    src: local("LXGW WenKai Light"),local("LXGWWenKai-Light"),url(./lxgw-wenkai-v1.250/LXGWWenKai-Light.ttf);
+    font-display: swap
+}
+
+
+@font-face {
+    font-family: 'LXGW WenKai';
+    font-style: normal;
+    font-weight: 400;
+    src: local("LXGW WenKai Mono Regular"),local("LXGWWenKaiMono-Regular"),url(./lxgw-wenkai-v1.250/LXGWWenKaiMono-Regular.ttf);
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'LXGW WenKai';
+    font-style: normal;
+    font-weight: 400;
+    src: local("LXGW WenKai Mono Bold"),local("LXGWWenKaiMono-Bold.ttf"),url(./lxgw-wenkai-v1.250/LXGWWenKaiMono-Bold.ttf);
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'LXGW WenKai';
+    font-style: normal;
+    font-weight: 400;
+    src: local("LXGW WenKai Mono Light"),local("LXGWWenKaiMono-Light"),url(./lxgw-wenkai-v1.250/LXGWWenKaiMono-Light.ttf);
+    font-display: swap
+}
+

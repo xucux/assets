@@ -1,4 +1,4 @@
-# assets 静态资源
+# 静态资源
 
 [assets检测](https://www.jsdelivr.com/package/gh/xucux/assets)
 
